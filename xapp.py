@@ -64,4 +64,5 @@ def main():
         calcular_plano_corte()
 
 if __name__ == "__main__":
+pip install reportlab
     main()
